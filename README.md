@@ -65,9 +65,6 @@ A QR Scanning application which saves all scanned QR codes and let you copy resu
 
 </details>
 
-## Available on
-[![Release](https://img.shields.io/badge/release-1.0.5-blue)](https://github.com/sachaparakenil/QR-Scanner/releases)
-
 ## License
 
 QR Scanner is distributed under the MIT Licence, See [Licence](LICENCE).
