@@ -1,5 +1,7 @@
 # QR Scanner
 
+<img src="https://github.com/sachaparakenil/QRScanner/blob/master/asset/logo/logo.png" width="60"/>
+
 ![version](https://img.shields.io/badge/version-1.0.5-blue)
 
 A QR Scanning application which saves all scanned QR codes and let you copy result whenever you want.
